@@ -1,0 +1,19 @@
+{
+  "name": "marketing-linkedin",
+  "version": "1.0.0",
+  "description": "A LinkedIn system: profile, hooks, posts, carousels, comments, a weekly plan and an audit.",
+  "author": {
+    "name": "Matteo Tittarelli",
+    "url": "https://genesysgrowth.com"
+  },
+  "homepage": "https://github.com/matteotitta/claude-marketing-linkedin",
+  "repository": "https://github.com/matteotitta/claude-marketing-linkedin",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "b2b-saas",
+    "gtm",
+    "claude-code",
+    "skills"
+  ]
+}

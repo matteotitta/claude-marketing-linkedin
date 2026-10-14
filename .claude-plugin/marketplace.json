@@ -1,0 +1,15 @@
+{
+  "name": "claude-marketing-linkedin",
+  "owner": {
+    "name": "Matteo Tittarelli"
+  },
+  "description": "A LinkedIn system: profile, hooks, posts, carousels, comments, a weekly plan and an audit.",
+  "plugins": [
+    {
+      "name": "marketing-linkedin",
+      "source": ".",
+      "description": "A LinkedIn system: profile, hooks, posts, carousels, comments, a weekly plan and an audit.",
+      "version": "1.0.0"
+    }
+  ]
+}
