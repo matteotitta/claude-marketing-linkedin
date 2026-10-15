@@ -33,13 +33,13 @@ In Claude.ai or Cowork: download [`claude-marketing-linkedin.zip`](https://githu
 | Skill | What it does |
 |---|---|
 | `/linkedin-carousels` | Plans a LinkedIn carousel people finish reading. |
-| `/linkedin-comment` | Writes LinkedIn comments on other people''s posts that read human and build relationships with buyers and the people they follow. |
-| `/linkedin-content-audit` | Audits the recent posts of one or more LinkedIn creators. |
-| `/linkedin-expert-posts` | Writes authority LinkedIn posts in the author''s voice: contrarian takes, frameworks, industry analysis, expert breakdowns and predictions. |
+| `/linkedin-comment` | Writes LinkedIn comments on other people's posts that read human and build relationships with buyers and the people they follow. |
+| `/linkedin-content-audit` | Audits the recent posts of one or more LinkedIn creators and shows what works. |
+| `/linkedin-expert-posts` | Writes authority LinkedIn posts in the author's voice: contrarian takes, frameworks, industry analysis, expert breakdowns and predictions. |
 | `/linkedin-hooks` | Writes LinkedIn post hooks (the first one or two lines) aimed at a specific buyer and offer. |
-| `/linkedin-personal-posts` | Writes personal LinkedIn posts in the author''s own voice. |
+| `/linkedin-personal-posts` | Writes personal LinkedIn posts in the author's own voice: full story posts built from real experiences, plus short formats. |
 | `/linkedin-profile` | Audits a LinkedIn profile and rewrites the copy so it speaks to one buyer and earns the click. |
-| `/linkedin-weekly-content` | Plans and drafts a week of LinkedIn posts in two stops. |
+| `/linkedin-weekly-content` | Plans and drafts a week of LinkedIn posts in two stops: first a plan, then full drafts in your voice and a simple posting calendar. |
 
 **Start here:** `/linkedin-profile → /linkedin-content-audit → /linkedin-weekly-content`
 
